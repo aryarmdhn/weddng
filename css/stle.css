@@ -64,14 +64,14 @@
     width: 240px;
     position: absolute;
     left: 0;
-    top: 1790px;
+    top: 1890px;
     animation: animasi 2s infinite alternate;
   }
   .bouquet2 {
     width: 240px;
     position: absolute;
     right: 0;
-    top: 2150px;
+    top: 2250px;
     animation: animasi 2s infinite alternate;
   }
   @keyframes animasi {
